@@ -20,3 +20,17 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
+Additional licenses
+-------------------
+
+### AutoHotKey_L
+
+This software contains code based on AutoHotKey_L, licensed under the GNU General
+Public License 2.0. Details on this can be obtained at the following URL:
+
+https://github.com/Lexikos/AutoHotkey_L/blob/master/license.txt
+
+### SysInternals Strings
+
+This software contains SysInternals Strings, licensed under the SysInternals Software
+License Terms. Details on this can be obtained in the strings-LICENSE.txt file.
